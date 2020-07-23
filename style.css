@@ -1,0 +1,25 @@
+.input{
+    width: 400px;
+    border: 1px solid lightgray;
+   }
+   .btn1{
+       height: 30px;
+       width: 50px;
+       margin-top: -5px;
+       padding: 0;
+       
+   }
+   .btn{
+       padding: 0;
+       height: 30px;
+       margin-top: -5px;
+   }
+.left{
+    margin-left: 50px;
+}
+.left1{
+    margin-left: 10px;
+}
+.padding{
+    padding-top: 10px;
+}
